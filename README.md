@@ -19,3 +19,10 @@ PWD : user1
 Um das Projekt un Betrieb zu nehmen, muss das Repository geklont werden. Anschließend kann das Projekt mit Maven 
 gestartet werden. In unserem Fall wurde das Projekt mit der ItelliJ IDEA IDE gestartet. Die Standarturl ist 
 "localhost:8080".
+
+
+## exammple
+
+Example is hosted on Heroku. 
+
+URL: https://dh-time-tracking.herokuapp.com
