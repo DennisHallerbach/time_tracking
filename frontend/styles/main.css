@@ -1,0 +1,65 @@
+body {
+    background-color: #dde;
+}
+
+.title {
+    font-size: larger;
+    margin: 0.8em;
+    color: #555555;
+}
+
+.header {
+}
+
+.button-logout {
+    position: absolute;
+    right: 2em;
+    color: #333;
+    background: #dde;
+    border-radius: 3em;
+    text-transform: uppercase;
+}
+
+.button-logout:hover {
+    cursor: pointer;
+}
+
+.router-link {
+    width: 100%;
+    margin: 0;
+    padding: 0.3em .2em;
+    font-size: 16pt;
+    text-transform: uppercase;
+    color: #eee;
+    border-radius: 8px;
+}
+
+.router-link:hover {
+    background: #687273;
+    text-decoration: none;
+}
+
+.side-bar {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background: #424748;
+}
+
+.admin-panel {
+    position: absolute;
+    background: #5a5a5a;
+    padding-top: 2em;
+    bottom: 0;
+}
+
+.user-panel {
+    padding-top: 2em;
+}
+
+.admin-panel-label {
+    color: #eee;
+    margin-left: 0.2em;
+    margin-bottom: 0.5em;
+    text-align: center;
+}

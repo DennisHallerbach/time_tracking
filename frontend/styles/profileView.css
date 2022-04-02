@@ -1,0 +1,11 @@
+.text-field {
+    min-width: 15em;
+}
+
+.e-mail {
+    min-width: 25em;
+}
+
+.position {
+    min-width: 25em;
+}

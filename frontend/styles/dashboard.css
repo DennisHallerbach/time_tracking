@@ -1,0 +1,100 @@
+label {
+    color: #446;
+    margin: 0;
+}
+
+h2 {
+    margin: 0;
+    font-size: large;
+    color: #555;
+}
+
+vaadin-button {
+    color: #333;
+}
+
+vaadin-button:hover {
+    cursor: pointer;
+}
+
+.welcome-user {
+    font-size: xx-large;
+    margin-bottom: 0;
+}
+
+.dashboard-body {
+    width: 100%;
+}
+
+.main-content {
+    alignment: left;
+    width: 70% !important;
+}
+
+.info {
+    height: 100%;
+    width: 30% !important;
+    background: #eee;
+}
+
+.current-info {
+    width: 100%;
+    height: auto;
+    padding: 0;
+    margin: 0;
+}
+
+.dynamic-content {
+    padding: 2em;
+    background: #eeeeff;
+}
+
+.quote-of-the-day {
+    font-style: italic;
+    margin: 0;
+    right: 0;
+}
+
+.current-info-entry {
+    font-size: larger;
+    margin: 0;
+}
+
+.position {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.current-date {
+    position: absolute;
+    right: 0;
+    margin: 0 3em 0 0;
+    font-size: large;
+}
+
+.info-entry {
+    font-size: larger;
+    text-transform: uppercase;
+    margin: 0 0 1em 0;
+}
+
+.negative {
+    color: #884444;
+}
+
+.positive {
+    color: #448844;
+}
+
+.BackgroundWhite{
+    background-color: white;
+}
+
+.centerLayout {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    align-items: center;
+}
